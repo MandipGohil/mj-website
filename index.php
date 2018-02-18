@@ -123,7 +123,7 @@
 
                <div class="columns download">
                   <p>
-                     <a href="#" class="button"><i class="fa fa-download"></i>Download Resume</a>
+                     <a href="https://drive.google.com/file/d/1WuIDR7Dn-o9ikKuLLG1WCvfr_ANO3hw_/view?usp=sharing" class="button"><i class="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
 
