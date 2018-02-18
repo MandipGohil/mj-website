@@ -67,7 +67,7 @@
             <ul class="social">
                <li><a href="https://www.facebook.com/mandip.gohil"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://twitter.com/mandipgohil30"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="www.linkedin.com/in/mandipsinh-gohil"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/mandipsinh-gohil"><i class="fa fa-linkedin"></i></a></li>
                <li><a href="https://www.instagram.com/_royalrajput_/"><i class="fa fa-instagram"></i></a></li>
                <li><a href="#"><i class="fa fa-skype"></i></a></li>
             </ul>
@@ -923,7 +923,7 @@ It use web service design in Axis2 that track the location of the student and ch
             <ul class="social-links">
               <li><a href="https://www.facebook.com/mandip.gohil"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://twitter.com/mandipgohil30"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="www.linkedin.com/in/mandipsinh-gohil"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/mandipsinh-gohil"><i class="fa fa-linkedin"></i></a></li>
               <li><a href="https://www.instagram.com/_royalrajput_/"><i class="fa fa-instagram"></i></a></li>
               <li><a href="#"><i class="fa fa-skype"></i></a></li>
               <!--
