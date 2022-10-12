@@ -145,30 +145,13 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="images/Shivu1.jpg" alt="" />
+            <img class="profile-pic"  src="images/Shivu1.JPG" alt="" />
             <!-- <img class="profile-pic"  src="images/Shivu2.jpg" alt="" />
             <img class="profile-pic"  src="images/Shivu4.jpg" alt="" />
             <img class="profile-pic"  src="images/Shivu5.jpg" alt="" /> -->
 
          </div>
 
-         <div class="three columns">
-
-            <!-- <img class="profile-pic"  src="images/Shivu1.jpg" alt="" /> -->
-            <img class="profile-pic"  src="images/Shivu2.jpg" alt="" />
-            <!-- <img class="profile-pic"  src="images/Shivu4.jpg" alt="" />
-            <img class="profile-pic"  src="images/Shivu5.jpg" alt="" /> -->
-
-         </div>
-
-         <div class="three columns">
-
-            <img class="profile-pic"  src="images/Shivu1.jpg" alt="" />
-            <img class="profile-pic"  src="images/Shivu2.jpg" alt="" />
-            <!-- <img class="profile-pic"  src="images/Shivu4.jpg" alt="" />
-            <img class="profile-pic"  src="images/Shivu5.jpg" alt="" /> -->
-
-         </div>
 
          <div class="nine columns main-col">
 
