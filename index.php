@@ -83,14 +83,6 @@
             I want her in my arms
             I love her sooo muchhhhhh 🫂🫂🫂😘
             All I need is SHIVUUUUU. 
-            
-            Her presence 
-            Her feeling 
-            Her love 
-            Her voice 
-            Her giggles 
-            Her smile 
-            I am living for those …. I am living for you my love Shivuuuuu ❤️❤️
 
             <span>I love you soo much and I can do anything for your happiness.</span>
             
