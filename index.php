@@ -55,7 +55,7 @@
 
       </nav> <!-- end #nav-wrap -->
 
-      <div class="row banner">
+      <div class="row">
          <div class="banner-text">
             <h1 class="responsive-headline">Shivangi Chhasatia.</h1>
             
@@ -98,19 +98,19 @@
             </h3>
 
             <hr />
-            <ul class="social">
+            <!-- <ul class="social">
                <li><a href="https://www.facebook.com/mandip.gohil"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://twitter.com/mandipgohil30"><i class="fa fa-twitter"></i></a></li>
                <li><a href="https://www.linkedin.com/in/mandipsinh-gohil"><i class="fa fa-linkedin"></i></a></li>
                <li><a href="https://www.instagram.com/_royalrajput_/"><i class="fa fa-instagram"></i></a></li>
                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-            </ul>
+            </ul> -->
          </div>
       </div>
 
-      <p class="scrolldown">
+      <!-- <p class="scrolldown">
          <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
-      </p>
+      </p> -->
 
    </header> <!-- Header End -->
 
@@ -202,6 +202,13 @@
             I love you now and forever.
             I am in madly & crazly in love with you.
             </p>
+
+            <h1>
+            Baby,
+            Yes I am little crazy and always excited for you but I love you more than you know 🫣🫣🫣🫣
+            I just want to love you like crazy and with you deep dive into the happiness ❤️❤️❤️💍👨‍👩‍👧‍👦
+            </h1>
+
 
             <h3>
             Your Hubby,
