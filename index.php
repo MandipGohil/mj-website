@@ -55,7 +55,7 @@
 
       </nav> <!-- end #nav-wrap -->
 
-      <div class="row">
+      <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Shivangi Chhasatia.</h1>
             
