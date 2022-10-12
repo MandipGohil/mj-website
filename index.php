@@ -196,12 +196,17 @@
             I am in madly & crazly in love with you.
             </p>
 
-            <h1>
-            Baby,
-            Yes I am little crazy and always excited for you but I love you more than you know 🫣🫣🫣🫣
+            <h2>
+            Baby,<br>
+            Yes I am little crazy and always excited for you but I love you more than you know,
             I just want to love you like crazy and with you deep dive into the happiness ❤️❤️❤️💍👨‍👩‍👧‍👦
-            </h1>
+            </h2>
+            <br>
 
+            I know the answer for it but still want to offcially ask you on your special day - <br>
+            <h1>
+            Shivangi Chhasatia, Do you want to marry me? ❤️💍    
+            </h1>
 
             <h3>
             Your Hubby,
