@@ -46,6 +46,7 @@
          <ul id="nav" class="nav">
             <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
             <li><a class="smoothscroll" href="#about">About</a></li>
+            <li><a class="smoothscroll" href="#about2">About2 </a></li>
 	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
             <li><a class="smoothscroll" href="#portfolio">Works</a></li>
             <li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>
@@ -89,7 +90,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="images/Mandipsinh_photo.jpg" alt="" />
+            <img class="profile-pic"  src="images/MJG.jpg" alt="" />
 
          </div>
 
@@ -135,6 +136,40 @@
 
    </section> <!-- About Section End-->
 
+
+ <!-- About Section
+   ================================================== -->
+   <section id="about2">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/Mandipsinh_photo.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>About Me</h2>
+
+            <p>Hey baby I know it's been a long day for you same for me too. 
+               I had you on my mind all day couldn't stop thinking about you. 
+               The smile that spread across my face when we first started talking you put that there. 
+               It warms my heart to know I have a reason to wake up every morning and stay up late. 
+               Sometimes I always feel the need to be next to you then I realize we're far apart. 
+               In the past I haven't been so lucky l've never meet anyone one like you. 
+               You checks up on me when I don't reply in a certain amount of time, 
+               you cares for me and makes me happy. 
+               I pray we last forever and ever because your my forever 
+               and nothing's going to change that not even me....
+            </p>
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
 
    <!-- Resume Section
    ================================================== -->
