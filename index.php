@@ -146,6 +146,10 @@
          <div class="three columns">
 
             <img class="profile-pic"  src="images/Mandipsinh_photo.jpg" alt="" />
+            <img class="profile-pic"  src="images/Shivu1.jpg" alt="" />
+            <img class="profile-pic"  src="images/Shivu2.jpg" alt="" />
+            <img class="profile-pic"  src="images/Shivu4.jpg" alt="" />
+            <img class="profile-pic"  src="images/Shivu5.jpg" alt="" />
 
          </div>
 
@@ -153,16 +157,58 @@
 
             <h2>About Me</h2>
 
-            <p>Hey baby I know it's been a long day for you same for me too. 
-               I had you on my mind all day couldn't stop thinking about you. 
-               The smile that spread across my face when we first started talking you put that there. 
-               It warms my heart to know I have a reason to wake up every morning and stay up late. 
-               Sometimes I always feel the need to be next to you then I realize we're far apart. 
-               In the past I haven't been so lucky l've never meet anyone one like you. 
-               You checks up on me when I don't reply in a certain amount of time, 
-               you cares for me and makes me happy. 
-               I pray we last forever and ever because your my forever 
-               and nothing's going to change that not even me....
+            <p>Dear Shivuuuuu,
+
+            Many Many happy Return of the Day My LOVE ❤️💕💗💖 
+            May this year bring you all the happiness and prosperity to you.
+
+            The day we talked first time, I never even thought that we are made for each others. 
+            I actually dont even realize when I started loving you. May be I said it late. 
+            At that time I was afraid to lose you but when we talked and you were sad, 
+            I couldnt stop my self because I love you so much that I cant see you in any pain. 
+
+            Now after so many days Its felt the same. Our love grows each and every day. 
+            I am so proud of you. I know youre going through tough time but you are not alone now. 
+            I am always with you now and forever. 
+            Tough time actually shows who you are and I loved every bit of you. 
+            I have never ever felt this strong connection / love / affection / attraction towards any one. 
+            You my love on other hand, have all my love, affection, attraction and most importantly my precious HEART ❤️. 
+            To be honest I dont need it back, because I know you will never break it.
+
+            In such a sort time, I have seen a lot of dreams but 
+            I didnt share with you because I dont want to create unnecessary pressure on you. 
+            I have dreams that you came here and start studying. 
+            We are living together enjoying every single moment of our life. 
+            You are focusing in study and I am in my work. Every day in evening, 
+            we go for a walk to get some fresh air and talked about our day. 
+            We cook together, have fun in kitchen every day. 
+            A lot of naughty things we do. Eventually you also like what 
+            I am keep telling you about. Kissing you and hugging you is pretty normal. 
+            Eventually you will finish your studies and gets a great job. 
+            I am proud of you now but I will be more proud at that time that you achieved your goal.
+             Now we both are working and planning to get a home OUR HOME 🏡. 
+             Actually there are many more dreams. Most of them are really really bright. 
+             And of course I am not immune with over thinking so I got some bad one also. 
+             But I dont care about those. I am trying to be the best I can for you. 
+             I will always protect you from any harm. 
+             You dont need to worry about what will happen and how we will be getting through. 
+             Just trust the universe trust the god, we didnt do anything wrong so I am not afraid of anything.
+
+            I talked a lot about how I started loving you, what I feel and my dreams. 
+            But all of those cant happen without YOU - MY LOVE 🫂❤️. 
+            You are so perfect for me that I cant even describe. Your energy, your smile, 
+            the way to care about people you love, the way you showing your love, your truthfulness, 
+            your passion, your behavior - everything is perfect for me. Most 
+            importantly we share each other everything. We talked and resolved the problem and that will definitely help 
+            in future as problems will come, it our understanding that will help us to tackle it. 
+            I know you will always be with me in any situation.
+            I love you so much shivuuu.
+
+            Thank you so much for everything. Please be mine and Dont ever dare to leave me. 
+            I love you now and forever.
+
+            Your Hubby,
+            Shivuuuu
             </p>
 
          </div> <!-- end .main-col -->
