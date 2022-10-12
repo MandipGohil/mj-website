@@ -57,13 +57,46 @@
 
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline">Mandipsinh Gohil.</h1>
-            <h3>I'm currently attending San Jose State University(MS in Computer Software Engineering),
-                doing specialization in <span>Enterprise System Software</span> and <span>
-                Cloud and Virtualization Technology.</span>
-                Let's <a class="smoothscroll" href="#about">start scrolling</a>
-                and learn more <a class="smoothscroll" href="#about">about me</a>.
+            <h1 class="responsive-headline">Shivangi Chhasatia.</h1>
+            
+            <h3>
+            <span>Stars and Moon of my life ❤️💕💗💖</span>
+            
+            Lets start with the introduction of the person who changed my life and it all started on 
+            <span>August 8th 2022.</span>
+
+            Person who was little weird at first and did not want to share anything with me because as per her rules, we were not even friends.
+            I need to wait for a day to become her friend. (To be exect we become friends at 11pm at San Jose, CA timezone).
+            At first, I was like what, it did not happen to me and I am like I need to know her more.
+            You are cute bundle of joy to me. 
+
+            YES I AM TELLING YOU NOW THAT I LOVE YOU AT FIRST SIGHT ❤️💕💗💖
+
+            <span>This is going to sound crazy, but… from the moment I first set eyes on you I havent been able to stop thinking about you.
+             you are so adorable, cute, beautiful, charming, gorgeous, hardworking, loving, respectful and awesome.</span>
+
+            Then after quick two months, this is what I think of her now... LOL
+            
+            Want to meeet her
+            Want to hugggg her
+            Want to see her cute smile and kiss her on her lips 😘😘❤️❤️❤️
+            I want her in my arms
+            I love her sooo muchhhhhh 🫂🫂🫂😘
+            All I need is SHIVUUUUU. 
+            
+            Her presence 
+            Her feeling 
+            Her love 
+            Her voice 
+            Her giggles 
+            Her smile 
+            I am living for those …. I am living for you my love Shivuuuuu ❤️❤️
+
+            <span>I love you soo much and I can do anything for your happiness.</span>
+            
+            Let's <a class="smoothscroll" href="#about2">start the celebratation</a>.
             </h3>
+
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/mandip.gohil"><i class="fa fa-facebook"></i></a></li>
