@@ -159,7 +159,7 @@
 
             
             
-            <h3>Dear Shivuuuuu (My Happiness, My World, My P) </h3>
+            <h3>Dear Shivuuuuu (Love of my Life, My Happiness, My World) </h3>
 
             <p>
 
@@ -229,7 +229,7 @@
             Your Hubby,
             Shivuuuu
             </h3>
-            
+
             </p>
 
          </div> <!-- end .main-col -->
