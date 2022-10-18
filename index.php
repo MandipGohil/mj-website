@@ -215,6 +215,14 @@
 
             </p>
 
+            <h3>Date: 17th Oct 2022</h3>
+            <p>It was pretty normal day for the start. I like that Shivu start
+               focusing on the Work and target she need to achive. I am very proud of her.
+               She is doing really well. I love her so much and I will always support her.
+               Baby, Keep going, I am with you in all the stages of our Life.
+               Love you as always. Stay motivated and allow yourself to do what neccesary to achieve the goal.
+            </p>
+
          </div> <!-- end .main-col -->
 
       </div>
